@@ -1,7 +1,7 @@
 
 ![Alt Text](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
 # 👋 Hi, I’m Chrisitan
-- 👀 I’m interested in transforming Ideas into Stunning Web Experiences 🚀
+- 👀 I’m interested in learning about backend technologies 🚀
 - 🌱 I’m currently learning React⚛️
 
 <!---
